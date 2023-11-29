@@ -17,3 +17,15 @@ Link to deployed website: https://sneaker-haven-qvc1u24dn-shawn-nassabis-project
 ## CREATE LISTING
 
 ![Create listing](./docs_pics/create.png)
+
+## EDIT LISTINGS
+
+![Edit listing](./docs_pics/edit.png)
+
+## ADD REVIEWS
+
+![Add review](./docs_pics/review.png)
+
+## ADD/REMOVE FROM CART
+
+![Cart](./docs_pics/cart.png)
